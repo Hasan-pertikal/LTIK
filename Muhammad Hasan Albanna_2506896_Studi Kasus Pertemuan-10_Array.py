@@ -37,8 +37,7 @@ def soal_3():
     print(f"Keuntungan tertinggi: Rp. {kMax} rb", f"-> terjadi pada hari ke-{hariMax[0] + 1}")
     print(f"Keuntungan terendah : Rp. {kMin} rb", f"-> terjadi pada hari ke-{hariMin[0] + 1}")
 
-print("*" * 18)
-soal_1()
+
+#soal_1()
 #soal_2()
 #soal_3()
-print("*" * 18)
